@@ -3,3 +3,4 @@
 "Me interesa porque facilita el empaquetado y la portabilidad de las aplicaciones." 
 "## ¨Qu‚ necesito aprender primero?" 
 "Los conceptos b sicos de contenedores, im genes y comandos de Docker." 
+Quiero aprender sobre redes de contenedores. 
